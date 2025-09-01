@@ -34,10 +34,7 @@ Here’s what you’ll find here:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-
-<img align="right" alt="Coding GIF" width="300" src=https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif/>
-
-----
+----![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/user-attachments/assets/9bb11e85-6eac-46ff-9285-f536ab40ea4e)
 
 ### 🚀 Currently Working On
 - My college capstone project which is related to drone technology
@@ -52,7 +49,7 @@ Here’s what you’ll find here:
 - Get better at **automation** and creating efficient workflows  
 - Deepen expertise in **data science, ML, and cloud technologies**  
 - Build a collection of **impactful GitHub projects** that help others learn  
-- Keep learning **new Ai tools** and staying updated with tech trends  
+- Keep learning **new ai tools** and staying updated with tech trends  
 
 ---
 
