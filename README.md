@@ -76,6 +76,9 @@ Passionate about building scalable backend systems, analyzing data for impactful
 **Also:** Generative AI (Gemini API, LangChain basics)
 
 ---
+<img width="480" height="480" alt="484327193-9bb11e85-6eac-46ff-9285-f536ab40ea4e" src="https://github.com/user-attachments/assets/9bf91880-651d-4b7d-bda9-3113bf7258f3" />
+
+
 
 ## 💼 Experience Highlights
 
